@@ -16,3 +16,4 @@
 
 - Serviços a utilizar: Crawler, EventBridge, DynamoDB, Lambda, CloudWatch, S3, QuickSight
 
+![Diagrama AWS](diagramaAWS.png "Diagrama do projeto AWS")
